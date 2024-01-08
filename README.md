@@ -1,2 +1,2 @@
-# exerc-cios-lucasmri
+# exercicios-lucasmri
 Este é o meu repositório pessoal, com exercícios abrangendo várias tecnologias.
